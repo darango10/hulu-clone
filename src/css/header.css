@@ -55,4 +55,5 @@
 .header > img {
     width: 80px;
     object-fit: contain;
+    padding: 20px;
 }

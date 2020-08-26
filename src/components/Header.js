@@ -44,7 +44,6 @@ const Header = () => {
                 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/1920px-Hulu_Logo.svg.png"
                 alt="logo"/>
 
-
         </div>
     );
 };
